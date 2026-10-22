@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @r0h4dj1
-- 👀 I’m interested in science, technology, software development, mountain biking and golf!
-- 🌱 I’m currently learning Javascript and Java.
-- 💞️ I’m looking to collaborate on cool projects to help me become a better developer.
-- 📫 How to reach me ...
+### Hey, I'm r0h4dj1.
 
-<!---
-r0h4dj1/r0h4dj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I write software and occasionally remember to update the README.
+
+Most of my day-to-day work lives elsewhere. This is where the side quests end up.
+
+![Repository languages and GitHub activity](assets/profile-light.svg#gh-light-mode-only)
+![Repository languages and GitHub activity](assets/profile-dark.svg#gh-dark-mode-only)
